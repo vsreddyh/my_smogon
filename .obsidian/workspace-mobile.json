@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Raichu"
             }
+          },
+          {
+            "id": "47900db6bda0c797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Revolution Online /Magnezone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnezone"
+            }
+          },
+          {
+            "id": "c376059c48d42eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Revolution Online /Raichu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raichu"
+            }
+          },
+          {
+            "id": "98a4cb69f82874b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Revolution Online /Machamp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machamp"
+            }
+          },
+          {
+            "id": "584ae63e7ef10d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pokemon Revolution Online /Machamp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machamp"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -168,6 +225,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "8dcd048e04be805a",
-  "lastOpenFiles": []
+  "active": "584ae63e7ef10d3f",
+  "lastOpenFiles": [
+    "Pokemon Revolution Online /Annihilape.md",
+    "Pokemon Revolution Online /Machamp.md",
+    "Pokemon Revolution Online /Poliwrath.md",
+    "Pokemon Revolution Online /Magnezone.md",
+    "Pokemon Revolution Online /Raichu.md"
+  ]
 }
